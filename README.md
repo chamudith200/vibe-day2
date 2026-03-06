@@ -1,5 +1,7 @@
 # Python Basic Programs - Day 02
 
+> **Note:** This repository and all its contents were generated using AI.
+
 This repository contains two simple Python scripts developed as part of the Vibe Day 02 exercises.
 
 ## 1. Grade Calculator (`grade_calculator.py`)
